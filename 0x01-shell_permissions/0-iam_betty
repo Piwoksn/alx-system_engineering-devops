@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hR betty /0-iam_betty \n
+chown -hR betty /0-iam_betty
